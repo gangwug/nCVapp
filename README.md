@@ -1,7 +1,4 @@
-# nCVapp
-The shiny app for nCV package
-
-## Introduction
+## Introduction about nCVapp
 
 nCVapp is a Shiny app of [nCV](https://github.com/gangwug/nCV) package. 
 
