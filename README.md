@@ -27,4 +27,4 @@ There is an input data and reference example file ('example_data.csv' and 'examp
 
 
 ## For more information
-wggucas@gmail.com
+Gennady Korotkevich, Vladimir Sukhov, Nikolay Budin, Boris Shpak, Maxim N. Artyomov, Alexey Sergushichev. Fast gene set enrichment analysis. bioRxiv. doi: https://doi.org/10.1101/060012.
